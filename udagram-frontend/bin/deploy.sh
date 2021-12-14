@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./www s3://elenas3clifrontend/
+aws s3 cp --recursive --acl public-read ./www s3://elena-ud-last-pr-frontend/
