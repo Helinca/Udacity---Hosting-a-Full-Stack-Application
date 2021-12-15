@@ -33,7 +33,7 @@ This website is hosted on AWS. Elastic Beanstalk is used for the Backend API, tw
 
  The CircleCi is connected to the project on Github and is used to automatically deploy the website to the AWS, and it is set to automatically execute when code is pushed into the master Github project. 
 
-![Image](doc/Pipeline Architecture.drawio.png)
+![Image](doc/PipelineArchitecture.drawio.png)
 
 >### Screenshots:
   ![Image](doc/Circleci.jpg)
@@ -60,7 +60,3 @@ This website is hosted on AWS. Elastic Beanstalk is used for the Backend API, tw
 ```
 
 
-
-## License
-
-[License](LICENSE.txt)
